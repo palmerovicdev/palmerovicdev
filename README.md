@@ -34,7 +34,11 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=spring,flutter,nestjs,php,javascript,typescript,java,dart,kotlin,idea,vscode" />
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,mysql,postgres,redis,androidstudio,bash,docker,gradle,maven," /><br>
+   <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,mysql,postgres,redis,androidstudio,bash,docker,gradle,maven" />
+  </a>
+</p>
 </div>
 
 <hr/>
