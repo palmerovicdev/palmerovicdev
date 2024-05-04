@@ -8,11 +8,11 @@
 
 <div align="center">
 
-🔭 I’m currently working on **UnDosTres**
+🔭 I’m currently working on **[UnDosTres](https://undostres.com.mx)**
 
 🌱 I’m currently learning **Astro, Svelte, Nestjs, Docker, DevOps**
 
-💬 Ask me about **Spring, Flutter, Firebase... or anything [here](https://github.com/palmerovicdev/palmerovicdev/issues)**
+💬 Ask me about **Spring, Flutter, NestJs... or anything [here](https://github.com/palmerovicdev/palmerovicdev/issues)**
 
  </div>
 
