@@ -10,9 +10,9 @@
 
 🔭 I’m currently working on **[UnDosTres](https://undostres.com.mx)**
 
-🌱 I’m currently learning **Astro, Svelte, Nestjs, Docker, DevOps**
+🌱 I’m currently learning **Professional Spring Learning Path, Docker, DevOps**
 
-💬 Ask me about **Spring, Flutter, NestJs... or anything [here](https://github.com/palmerovicdev/palmerovicdev/issues)**
+💬 Ask me about **Spring, Flutter... or anything [here](https://github.com/palmerovicdev/palmerovicdev/issues)**
 
  </div>
 
