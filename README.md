@@ -10,7 +10,7 @@
 
 🔭 I’m currently working on **[UnDosTres](https://undostres.com.mx)**
 
-🌱 I’m currently learning **Professional Spring Learning Path, ASP .NET Core**
+🌱 I’m currently learning **Professional Spring Learning Path, ASP .NET Core..,**
 
 💬 Ask me about **Spring, Flutter... or anything [here](https://github.com/palmerovicdev/palmerovicdev/issues)**
 
