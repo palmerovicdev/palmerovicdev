@@ -8,8 +8,6 @@
 
 <div align="center">
 
-🔭 I’m currently working at **[UnDosTres](https://undostres.com.mx)**
-
 🌱 I’m currently learning **Professional Spring Learning Path, ASP .NET Core..,**
 
 💬 Ask me about **Spring, Flutter... or anything [here](https://github.com/palmerovicdev/palmerovicdev/issues)**
