@@ -40,5 +40,3 @@
 </div>
 
 <hr/>
-
-<iframe width="384px" height="319px" src="https://plugins.jetbrains.com/embeddable/card/34247"></iframe>
